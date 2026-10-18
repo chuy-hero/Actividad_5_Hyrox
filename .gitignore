@@ -1,0 +1,22 @@
+# Datos grandes y potencialmente sujetos a licencia
+datos/datos_ini/*
+datos/datos_limp/*.parquet
+
+# Secretos
+kaggle.json
+.env
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Notebook
+.ipynb_checkpoints/
+
+# MLflow local
+evidencias/mlflow/tracking/
+
+# Archivos temporales
+.DS_Store

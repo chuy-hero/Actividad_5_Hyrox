@@ -1,0 +1,9 @@
+{
+  "archivo_origen": "hyrox_full.parquet",
+  "sha256_original": "c692ccbd73169b19ce9c423234f22bb29c09f3c1eff1d8861b1789f1b32beca7",
+  "filas_originales": 1478643,
+  "duplicados_eliminados": 0,
+  "objetivos_invalidos_eliminados": 14,
+  "filas_limpias": 1478629,
+  "semilla": 42
+}
